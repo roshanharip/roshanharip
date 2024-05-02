@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
 <h1 align="center">Hi 👋, I'm Roshan Hari P</h1>
-<h3 align="center">A passionate of Data Science</h3>
+<h3 align="center">I'm passionate of Data Science</h3>
 <img align="right" alt="DataScience" width="400" src="https://cdn.dribbble.com/users/176039/screenshots/9022929/media/b21392d51355d99c7b82a5fedf2c4f85.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanharip&label=Profile%20views&color=0e75b6&style=flat" alt="roshanharip" /> </p>
 
